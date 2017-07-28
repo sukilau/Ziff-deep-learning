@@ -5,7 +5,7 @@ Tweets Sentiment Analysis (positive or negative) using NLTK VADER Sentiment Inte
 
 ## What is in this repo
 
-*sentiment-analysis.py*  
+*sentiment-analysis.ipynb*  
 
 * An implementation of NLTK VADER Sentiment Analyzer, CounterVectorizer, TfidfTransformer, SVC are trained against 2001 labeled tweets using 10-fold cross validation.
 
@@ -20,7 +20,7 @@ Tweets Sentiment Analysis (positive or negative) using NLTK VADER Sentiment Inte
 * Evaluation on area under ROC curve is made using 10-fold cross validation.  Best AUC score = 0.806 (+/-0.062) for the parameter set {'C': 0.5, 'kernel': 'linear'}.
 
 
-*model-comparison-01.py, model-comparison-02.py, model-comparison-03-word2vec.py*
+*model-comparison-01.ipynb, model-comparison-02.ipynb, model-comparison-03-word2vec.ipynb*
 
 * The dataset is also tested against other methods, eg. with or without VADER, using different classifiers, Word2Vec.
 
