@@ -1,8 +1,7 @@
 # Convolutional Neural Network trained on CIFAR-10 - Image Augmentation
 
-## What is in this repo
 
-This repo contains jupyter notebook of image augumentation for deep learning using Keras ImageDataGenerator API. 
+## What is in this repo
 
 *image_augmentation.ipynb*
 
