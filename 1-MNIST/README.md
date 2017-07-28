@@ -3,7 +3,7 @@ Submission to [Challenge #1](https://github.com/ziff/internship2017/issues/2)
 # Convolutional Neural Network trained on MNIST - Improve accuracy with GridSearch
  
  
-## Challenge
+## Task
 * Demonstrate an understanding of hyperparameter optimization using sklearn GridSearch on a convolutional deep net against a simplified MNIST digit recognition by improving out-of-sample accuracy above 0.98398.
  
  
