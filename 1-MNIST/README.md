@@ -17,7 +17,7 @@ Submission to [Challenge #1](https://github.com/ziff/internship2017/issues/2)
 
 * In this notebook, I first visualize the training performance of the convnet by looking into the model accuracy and loss function as epoch increases. Next, I dive into deep learning visualization by extracting the weights and activations in the two hidden convolution layers.
 
-[A Walkthrough of Convolutional Neural Network](https://medium.com/towards-data-science/a-walkthrough-of-convolutional-neural-network-7f474f91d7bd) 
+[A Walkthrough of Convolutional Neural Network — Hyperparameter Tuning](https://medium.com/towards-data-science/a-walkthrough-of-convolutional-neural-network-7f474f91d7bd) 
 
 * My blog post discussing convnet, how to tune hyperparamter and visualize deep neural net.
 
