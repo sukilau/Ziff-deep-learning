@@ -1,4 +1,4 @@
-# Convolutional Neural Network trained on CIFAR-10 - Image Augmentation
+# Convolutional Neural Network trained on CIFAR-10 - Image Augmentation using Histogram Equalization
 
 
 ## What is in this repo
