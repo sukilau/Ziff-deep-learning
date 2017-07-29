@@ -9,5 +9,5 @@
 
 * My blog post discussing how to use Keras LearningRateScheduler API to create custom learning rate schedules and compare the perfromance with adaptive gradient descent algorithms : [Image Augmentation for Deep Learning — Histogram Equalization](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2)
 
-![plot](/compare-accuracy.jpg)
+![plot](/3-CIFAR10-lrate/compare-accuracy.jpg)
 
