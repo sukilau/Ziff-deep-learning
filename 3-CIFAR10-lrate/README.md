@@ -1,4 +1,4 @@
-# Convolutional Neural Network trained on CIFAR-10 - PLearning Rate Schedule and Adaptive Learning Rate Methods
+# Convolutional Neural Network trained on CIFAR-10 - Learning Rate Schedule and Adaptive Learning Rate Methods
 
 
 ## What is in this repo
