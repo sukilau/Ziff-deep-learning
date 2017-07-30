@@ -14,7 +14,7 @@
 ![plot](/2-CIFAR10-data-generator/img/cat.jpg)
 ![plot](/2-CIFAR10-data-generator/img/augmented_cat.png)
 
-## Augmeneted images using Constrast Stretching, Histogram Equalization and Adaptive Histogram Equalization
+## Augmeneted images using constrast stretching, histogram equalization and adaptive histogram equalization
 ![plot](/2-CIFAR10-data-generator/img/streching.png)
 
 ![plot](/2-CIFAR10-data-generator/img/HE.png)
