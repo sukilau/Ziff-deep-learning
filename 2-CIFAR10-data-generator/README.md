@@ -3,11 +3,11 @@
 
 ## What is in this repo
 
-*image_augmentation.ipynb*
+*CIFAR10-DataGenerator.ipynb*
 
 * In this notebook, I demonstarte how to use Keras ImageDataGenerator API to generate augmented images. It is useful when training deep neural network with small set of image data. Custom augmentation, such as histogram equalization is also used to adjust constrast of images.
 
-* My blog post discussing how to generate augmented images using Keras ImageDataGenerator API : [Image Augmentation for Deep Learning — Histogram Equalization](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2)
+* My blog post discussing how to generate augmented images using Keras ImageDataGenerator API : [Image Augmentation for Deep Learning](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2)
 
 
 
