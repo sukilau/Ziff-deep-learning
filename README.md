@@ -1,7 +1,5 @@
 # Ziff Deep Learning Internship 2017 
 
----
-
 ## What is in this repo
 
 * Project repo for deep learning model performance improvement strategies.
