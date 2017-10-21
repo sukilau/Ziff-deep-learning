@@ -1,18 +1,20 @@
 # Ziff Deep Learning Internship 2017 
 
-## Task 0 
+---
 
-* Customer churn prediction using Random Forest [Code](https://github.com/sukilau/Ziff/tree/master/0-churn)
-* Tweets Sentiment Analysis using VADER, Word2Vec and NLP techniques [Code](https://github.com/sukilau/Ziff/tree/master/0-tweet)
+## What is in this repo
 
-## Task 1
+* Project repo for deep learning model performance improvement strategies.
 
-* Convolutional Neural Network trained on MNIST - Improve accuracy with GridSearch [Code](https://github.com/sukilau/Ziff/tree/master/1-MNIST) [Blog](https://medium.com/towards-data-science/a-walkthrough-of-convolutional-neural-network-7f474f91d7bd)
+### Task 1
 
-## Task 2
+* Tuning Hyperparameter for Deep Neural Network - Example Code on Improving Convolutional Neural Network by GridSearch [Code](https://github.com/sukilau/Ziff/tree/master/1-MNIST) [Blog](https://medium.com/towards-data-science/a-walkthrough-of-convolutional-neural-network-7f474f91d7bd)
 
-* Convolutional Neural Network trained on CIFAR-10 - Image Augmentation [Code](https://github.com/sukilau/Ziff/tree/master/2-CIFAR10-data-generator) [Blog](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2)
+### Task 2
 
-## Task 3
-* Convolutional Neural Network trained on CIFAR-10 - Learning Rate Schedules and Adaptive Learning Rate Methods [Code](https://github.com/sukilau/Ziff-deep-learning/tree/master/3-CIFAR10-lrate) [Blog](https://medium.com/@lskhere/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
+* Image Augmentation for Deep Learning - Example code of Convolutional Neural Network trained on CIFAR-10 [Code](https://github.com/sukilau/Ziff/tree/master/2-CIFAR10-data-generator) [Blog](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2)
+
+### Task 3
+
+*  Learning Rate Schedules and Adaptive Learning Rate Methods for Deep Neural Network - Exmaple code of Convolutional Neural Network trained on CIFAR-10[Code](https://github.com/sukilau/Ziff-deep-learning/tree/master/3-CIFAR10-lrate) [Blog](https://medium.com/@lskhere/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
 
